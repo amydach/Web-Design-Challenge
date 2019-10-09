@@ -1,0 +1,65 @@
+
+.header h1 {
+  padding: 5px;
+  margin-left: 10%;
+  color: #00b3b3;
+  text-align: left;
+}
+
+p {
+  font-size: 5px;
+  line-height: 150%;
+}
+
+h1 {
+  padding: 5px;
+  margin-left: 10%;
+  color: #00b3b3;
+  text-align: left;
+}
+
+a {
+  color: #00b3b3;
+}
+
+nav{
+  margin-left: 80%;
+  margin-bottom: 2%;
+  background-color:  #ffffff;
+}
+
+#fig-image {
+  width: 600px;
+  height: 400px;
+  margin-right: 20px;
+}
+
+#land-image {
+  width: 260px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+#land2-image {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+}
+
+body {
+  background-color:  #f6f5f1;
+}
+
+.main-container {
+  margin-top: 5%;
+  background-color:  #ffffff;
+}
+
+.btn-dark{
+  background-color:  #00b3b3;
+  border-color: #00b3b3
+  font-weight: 700;
+  color:white;
+  font-size: 20px;
+  font-family: "Times New Roman";
+  }
